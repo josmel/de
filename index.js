@@ -8,5 +8,5 @@ app.get('/',(req,res)=> {
 
 
 app.listen(port,()=>{
-   console.log(`listen ip port ${port}`)
+   console.log(`listen ip port ${port} in home`)
 })
